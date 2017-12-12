@@ -1,0 +1,4 @@
+﻿Product,Death Value  (Y/N),Surr Value (Y/N),Maturity Value (Y/N),Imm Annuity (Y/N),Critical Illness (Y/N),Joint Life (Y/N),STEADY_STATE,DISABILITY (Y/N),Unit Linked (Y/N)
+CZALP2,SUM_ASSURED,0,0,0,0,0,0,0,0
+VAEPDF,MIN_SUM_ASSURED,1,1,0,1,1,0,0,1
+CLPP41,SUM_ASSURED,0,0,0,0,0,0,0,0
