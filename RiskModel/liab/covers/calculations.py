@@ -94,6 +94,7 @@ USED IN FUND & BENEFITS
 
 def fund_and_benefits_circle(self, chargescommission, product_features, product_assumptions, policies, policy_number,
                              economic):
+    print("I'm here")
     risk_charge = [0]
     accumulation_account_post_dedn = [0]
     return_on_accumulation_account = [0]
